@@ -15,12 +15,7 @@ This project focuses on detecting fraudulent or phishing emails using machine le
 
 ## 📂 Project Structure
 email-fraud-detection/
-│── README.md             # Project description, usage, results
-│── LICENSE               # License file (MIT, Apache, etc.)
-│── requirements.txt      # Python dependencies
-│── setup.py              # Optional: for packaging/installing
-│── .gitignore            # Ignore unnecessary files (datasets, cache, venv)
-│
+Ignore unnecessary files (datasets, cache, venv)
 ├── data/                 # Dataset (or instructions to download)
 │   ├── raw/              # Original dataset
 │   └── processed/        # Cleaned/preprocessed data

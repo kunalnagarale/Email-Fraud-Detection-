@@ -14,8 +14,7 @@ This project focuses on detecting fraudulent or phishing emails using machine le
 - **Dataset**: Public email datasets (e.g., Enron dataset, SpamAssassin corpus)
 
 ## 📂 Project Structure
-email-fraud-detection/
-Ignore unnecessary files (datasets, cache, venv)
+email-fraud-detection
 ├── data/                 # Dataset (or instructions to download)
 │   ├── raw/              # Original dataset
 │   └── processed/        # Cleaned/preprocessed data

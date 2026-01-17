@@ -23,5 +23,13 @@ email-fraud-detection
 - docs → contains documentation files
 - results → contains output files like metrics and graphs
 
+# Author
+
+👤 **Kunal Nagarale**
+- Github: (https://github.com/kunalnagarale)
+- Linkedin: www.linkedin.com/in/kunal-nagarale-b880031b6
+- Email: kunalnagarale92@gmail.com
+
+
 
 
